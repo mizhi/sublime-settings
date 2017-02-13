@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Elixir",
+		"Emacs Pro Essentials",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"Package Control",
+		"SCSS",
+		"Terminal"
+	]
+}
