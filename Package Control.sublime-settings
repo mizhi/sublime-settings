@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Dayle Rees Color Schemes",
 		"Elixir",
 		"Emacs Pro Essentials",
 		"Git",
 		"GitGutter",
 		"HTML5",
 		"Package Control",
+		"RSpec",
 		"SCSS",
 		"Terminal"
 	]
