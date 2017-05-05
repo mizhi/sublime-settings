@@ -5,15 +5,24 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"Color Highlighter",
 		"Dayle Rees Color Schemes",
+		"Dotfiles Syntax Highlighting",
 		"Elixir",
 		"Emacs Pro Essentials",
+		"ESpec",
 		"Git",
 		"GitGutter",
 		"HTML5",
 		"Package Control",
+		"Python 3",
 		"RSpec",
+		"Sass",
 		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"Terminal"
 	]
 }
