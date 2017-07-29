@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"ApplySyntax",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"DashDoc",
@@ -12,6 +14,7 @@
 		"Dotfiles Syntax Highlighting",
 		"Elixir",
 		"Emacs Pro Essentials",
+		"Emmet",
 		"ESpec",
 		"Git",
 		"GitGutter",
@@ -20,13 +23,18 @@
 		"MarkdownEditing",
 		"Package Control",
 		"Python 3",
+		"Related Files",
 		"RSpec",
 		"RuboCop",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeHaskell",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
-		"Terminal"
+		"Terminal",
+		"TrailingSpaces",
+		"yardoc"
 	]
 }
