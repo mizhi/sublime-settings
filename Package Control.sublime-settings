@@ -13,6 +13,7 @@
 		"Dayle Rees Color Schemes",
 		"Dotfiles Syntax Highlighting",
 		"Elixir",
+		"ElixirSublime",
 		"Emacs Pro Essentials",
 		"Emmet",
 		"ESpec",
@@ -30,11 +31,14 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeERB",
-		"SublimeHaskell",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
 		"Terminal",
 		"TrailingSpaces",
 		"yardoc"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeHaskell/SublimeHaskell/tree/hsdev"
 	]
 }
